@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react%20upload/static/css/main.16bd83eb.css",
+    "main.js": "/react%20upload/static/js/main.3e565f91.js",
+    "index.html": "/react%20upload/index.html",
+    "main.16bd83eb.css.map": "/react%20upload/static/css/main.16bd83eb.css.map",
+    "main.3e565f91.js.map": "/react%20upload/static/js/main.3e565f91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16bd83eb.css",
+    "static/js/main.3e565f91.js"
+  ]
+}
